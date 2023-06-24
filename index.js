@@ -7,7 +7,7 @@ if (main) {
 // Create a 'newHeader' element
 const newHeader = document.createElement("h1");
 newHeader.id = "victory";
-newHeader.textContent = "YOUR-NAME is the champion"; // Replace YOUR-NAME with your actual name
+newHeader.textContent = "Anne Anziya is the champion"; 
 
 // Append 'newHeader' to the document body
 document.body.appendChild(newHeader);
